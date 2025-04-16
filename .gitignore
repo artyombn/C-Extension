@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Protobuf files
+appsinstalled.pb-c.c
+appsinstalled.pb-c.h
+idfa_123abc.pb
